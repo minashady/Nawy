@@ -116,7 +116,7 @@ As we use query for all our require(s) from the server we have included screensh
 
 3. /apartmentDetails (post)
     Request query
-      ![image](https://github.com/minashady/assets/blob/main/apartmentDetails.pngg)
+      ![image](https://github.com/minashady/assets/blob/main/apartmentDetails.png)
 
 
 
